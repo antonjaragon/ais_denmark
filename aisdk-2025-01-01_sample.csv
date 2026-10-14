@@ -1,0 +1,9 @@
+# Timestamp,Type of mobile,MMSI,Latitude,Longitude,Navigational status,ROT,SOG,COG,Heading,IMO,Callsign,Name,Ship type,Cargo type,Width,Length,Type of position fixing device,Draught,Destination,ETA,Data source type,A,B,C,D
+01/01/2025 00:00:00,Class A,219005904,56.041798,12.613100,Unknown value,,0.0,279.7,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+01/01/2025 00:00:00,Base Station,2190064,56.716560,11.519037,Unknown value,,,,,Unknown,Unknown,,Undefined,,,,GPS,,Unknown,,AIS,,,,
+01/01/2025 00:00:00,Class A,311000766,57.775863,7.901422,Under way using engine,-8.7,4.1,259.2,255,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+01/01/2025 00:00:00,Class A,265514800,55.613652,12.997382,Under way using engine,,0.0,74.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+01/01/2025 00:00:00,AtoN,992111851,54.441580,7.678878,Unknown value,,,,,Unknown,Unknown,NSO 0 PLATFORM,Undefined,,,,GPS,,Unknown,,AIS,,,,
+01/01/2025 00:00:00,Base Station,2190064,56.716560,11.519037,Unknown value,,,,,Unknown,Unknown,,Undefined,,,,GPS,,Unknown,,AIS,,,,
+01/01/2025 00:00:00,Class A,265514800,55.613652,12.997382,Under way using engine,,0.0,74.0,,Unknown,Unknown,,Undefined,,,,Undefined,,Unknown,,AIS,,,,
+01/01/2025 00:00:00,Base Station,2190064,56.716560,11.519037,Unknown value,,,,,Unknown,Unknown,,Undefined,,,,GPS,,Unknown,,AIS,,,,
